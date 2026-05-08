@@ -1,0 +1,4 @@
+project_id = "msnhscmqeswuqivrricl"
+
+[functions.generate-cv-bullet]
+verify_jwt = false
